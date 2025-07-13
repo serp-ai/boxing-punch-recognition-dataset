@@ -1,14 +1,6 @@
 # README
 
-
-## People
-
-### Devin Schumacher
-
-
-### Alexander "The Great" Enriquez
-
-
+## Lableing
 
 ## Links
 - [SERP AI](https://github.com/serp-ai)
