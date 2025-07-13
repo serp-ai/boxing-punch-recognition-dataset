@@ -1,2 +1,1 @@
-# boxing-computer-vision
-[DRAFT]
+# README
