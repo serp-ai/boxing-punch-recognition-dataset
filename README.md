@@ -22,6 +22,11 @@ This project aims to create the first truly open, comprehensive boxing dataset -
 
 Ready to help change boxing?
 
+## Help Wanted 🤝
+
+We are looking for people to help contribute to this project:
+
+- [Data Annotators](https://github.com/serp-ai/boxing-punch-recognition-dataset/discussions/categories/help-wanted) (help us create the data set by labeling punches)
 
 
 ## Links
