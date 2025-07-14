@@ -2,7 +2,7 @@
 
 An open source boxing video dataset with detailed punch annotations (type, target, outcome) to train AI models for boxing analytics. Aimed to help democratize the world of boxing data.
 
-## The Problem
+## The Problem (and the fix)
 
 For decades, boxing analytics have been locked behind corporate walls, creating a two-tier system that benefits the wealthy and powerful while leaving fighters, trainers, and fans in the dark.
 
@@ -20,7 +20,13 @@ SERP AI is teaming up with Boxing Undefeated to help change the world of boxing.
 
 This project aims to create the first truly open, comprehensive boxing dataset - starting with punch recognition and classification that we will use to break down through the boxing world's gatekeepers and democratize the analytics that should belong to everyone who makes this sport possible: the fighters, trainers, and passionate fans who keep boxing alive.
 
+Our goal is to create a large enough data set that we can use to train artificial intelligence and machine learning models to create an open source, real-time, AI-powered punch tracking and classification software which can be used to help gyms, fightes, analytics, or anyone else with fight analytics, stats and insights -- or for building other types of boxing applications.
+
 Ready to help change boxing?
+
+## Project Technical Goals
+
+... #TODO
 
 ## Help Wanted 🤝
 
