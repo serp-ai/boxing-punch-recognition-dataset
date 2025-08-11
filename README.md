@@ -33,6 +33,7 @@ Ready to help change boxing?
 We are looking for people to help contribute to this project:
 
 - [Data Annotators](https://github.com/serp-ai/boxing-punch-recognition-dataset/discussions/categories/help-wanted) (help us create the data set by labeling punches)
+- [Punch Detection/Classification Data Labeling Instructions ](https://github.com/serp-ai/boxing-punch-recognition-dataset/discussions/2)
 
 
 ## Links
