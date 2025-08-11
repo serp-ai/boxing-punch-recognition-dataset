@@ -2,7 +2,7 @@
 
 An open source boxing video dataset with detailed punch annotations (type, target, outcome) to train AI models for boxing analytics. Aimed to help democratize the world of boxing data.
 
-## The Problem (and the fix)
+## The Problem
 
 For decades, boxing analytics have been locked behind corporate walls, creating a two-tier system that benefits the wealthy and powerful while leaving fighters, trainers, and fans in the dark.
 
@@ -38,5 +38,5 @@ We are looking for people to help contribute to this project:
 
 ## Links
 - [SERP AI](https://github.com/serp-ai)
-- [Boxing Undefeated](https://github.com/boxingundefeated/) | [Instagram](https://instagram.com/boxundefeated)
+- [Github](https://github.com/boxingundefeated/) | [Instagram](https://instagram.com/boxundefeated) | [Website](https://boxingundefeated.com/)
 - [CVAT project](https://app.cvat.ai/projects/293796?page=1&pageSize=10)
