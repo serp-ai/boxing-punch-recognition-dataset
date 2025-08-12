@@ -22,7 +22,7 @@ Every punch you label helps level the playing field. Amateur trainers will have 
 - Experience with annotation tools and data creation
 - Official internship credit from [SERP AI](https://www.linkedin.com/company/serpdotai/)
 - LinkedIn recommendation from [SERP](https://www.linkedin.com/company/serpcompany/) founder [Devin Schumacher](https://www.linkedin.com/in/devinschumacher)
-- Company LinkedIn inclusion - listed as team member on our company page
+- LinkedIn company page team inclusion - listed as team member on our company page
 - Professional reference letter for any job applications
 - Portfolio addition - legitimate project experience for your resume
 
