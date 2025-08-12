@@ -24,19 +24,12 @@ Our goal is to create a large enough data set that we can use to train artificia
 
 Ready to help change boxing?
 
-## Project Technical Goals
-
-... #TODO
-
 ## Help Wanted 🤝
 
-We are looking for people to help contribute to this project:
-
-- [Data Annotators](https://github.com/serp-ai/boxing-punch-recognition-dataset/discussions/categories/help-wanted) (help us create the data set by labeling punches)
-- [Punch Detection/Classification Data Labeling Instructions ](https://github.com/serp-ai/boxing-punch-recognition-dataset/discussions/2)
+We are looking for people to help volunteer for this project. [Click here to read more about the specifics of contributing.](https://github.com/serp-ai/boxing-punch-recognition-dataset/tree/main?tab=contributing-ov-file)
 
 
-## Links
+## Brand Links
 - [SERP AI](https://github.com/serp-ai)
 - [Github](https://github.com/boxingundefeated/) | [Instagram](https://instagram.com/boxundefeated) | [Website](https://boxingundefeated.com/)
 - [CVAT project](https://app.cvat.ai/projects/293796?page=1&pageSize=10)
