@@ -1,6 +1,6 @@
 # README
 
-An open source boxing video dataset with detailed punch annotations (type, target, outcome) to train AI models for boxing analytics. Aimed to help democratize the world of boxing data.
+This is a data science, machine learning and computer-vision artificial intelligence project that aims to create a dataset of labeled punches from professional boxing matches that can be used to video AI models for for sports (boxing) analytics - following a mission to help democratize the world of boxing data.
 
 ## The Problem
 
