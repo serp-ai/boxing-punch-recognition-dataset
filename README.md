@@ -1,6 +1,6 @@
 # README
 
-This is a data science, machine learning and computer-vision artificial intelligence project that aims to create a dataset of labeled punches from professional boxing matches that can be used to video AI models for for sports (boxing) analytics - following a mission to help democratize the world of boxing data.
+This is a data science, machine learning computer-vision focused project that aims to create a dataset of labeled punches from professional boxing matches that can be used to video AI models for for sports (boxing) analytics. In associated with [Boxing Undefeated](https://boxingundefeated.com), it strives to help democratize the world of boxing data.
 
 ## The Problem
 
