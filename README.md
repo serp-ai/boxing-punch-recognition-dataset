@@ -29,7 +29,7 @@ Ready to help change boxing?
 We are looking for people to help volunteer for this project. [Click here to read more about the specifics of contributing.](https://github.com/serp-ai/boxing-punch-recognition-dataset/tree/main?tab=contributing-ov-file)
 
 
-## Brand Links
-- [SERP AI](https://github.com/serp-ai)
-- [Github](https://github.com/boxingundefeated/) | [Instagram](https://instagram.com/boxundefeated) | [Website](https://boxingundefeated.com/)
-- [CVAT project](https://app.cvat.ai/projects/293796?page=1&pageSize=10)
+## Links
+
+- [SERP AI](https://github.com/serp-ai) | [Boxing Undefeated](https://github.com/boxingundefeated)
+- [CVAT project](https://cvat.serp.co/)
