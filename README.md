@@ -8,7 +8,7 @@ For decades, boxing analytics have been locked behind corporate walls, creating 
 
 CompuBox is the monopoly for punch statistics, used by major networks like HBO, NBC, and ESPN. But here's the shocking reality: CompuBox offers no API, no public database, and no way for anyone outside their exclusive corporate partnerships to access the data they've been collecting for 40 years. 
 
-Meanwhile BoxRec(boxing's primary record keeper with over 2.1 million bouts) refuses to offer any API and actively blocks researchers with aggressive anti-scraping measures. As their own users admit: "BoxRec would be the best place to do this, but their data isn't public" and "it's outright hostile to anyone trying to get their data". 
+Meanwhile few (if any) APIs exist.
 
 Independent developers acknowledge that "boxing data is very hard to come by, there is no single source of truth" and are forced to build complex scraping systems just to access basic information.
 
