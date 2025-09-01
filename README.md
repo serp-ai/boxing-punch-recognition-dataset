@@ -38,10 +38,36 @@ We are looking for people to help volunteer for this project. [Click here to rea
 ## Collaborators
 
 <!-- readme: collaborators -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Ivan-Koptiev">
+                    <img src="https://avatars.githubusercontent.com/u/121838978?v=4" width="100;" alt="Ivan-Koptiev"/>
+                    <br />
+                    <sub><b>Ivan Koptiev</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: collaborators -end -->
 
 ## Contributors
 
 <!-- readme: contributors -start -->
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/devinschumacher">
+                    <img src="https://avatars.githubusercontent.com/u/45643901?v=4" width="100;" alt="devinschumacher"/>
+                    <br />
+                    <sub><b>Devin Schumacher</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
 
