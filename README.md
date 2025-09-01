@@ -33,3 +33,15 @@ We are looking for people to help volunteer for this project. [Click here to rea
 
 - [SERP AI](https://github.com/serp-ai) | [Boxing Undefeated](https://github.com/boxingundefeated)
 - [CVAT project](https://cvat.serp.co/)
+
+
+## Collaborators
+
+<!-- readme: collaborators -start -->
+<!-- readme: collaborators -end -->
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
+
