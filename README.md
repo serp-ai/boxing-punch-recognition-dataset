@@ -66,6 +66,20 @@ We are looking for people to help volunteer for this project. [Click here to rea
                     <sub><b>Devin Schumacher</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Helmi-Mejri">
+                    <img src="https://avatars.githubusercontent.com/u/224588781?v=4" width="100;" alt="Helmi-Mejri"/>
+                    <br />
+                    <sub><b>Helmi-Mejri</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Ivan-Koptiev">
+                    <img src="https://avatars.githubusercontent.com/u/121838978?v=4" width="100;" alt="Ivan-Koptiev"/>
+                    <br />
+                    <sub><b>Ivan Koptiev</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
